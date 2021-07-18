@@ -1,0 +1,10 @@
+# mysql配置
+Mysql:
+  host: rm-bp198q3445140p7604o.mysql.rds.aliyuncs.com
+  name: acc_manage
+  username: hailun
+  password: Hl19980108
+Redis:
+  host: r-bp1a4a9e8158ad84pd.redis.rds.aliyuncs.com
+  username: r-bp1a4a9e8158ad84
+  password: Minami373
